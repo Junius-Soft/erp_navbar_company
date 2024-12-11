@@ -25,8 +25,8 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/erp_navbar_company/css/erp_navbar_company.css"
-# app_include_js = "/assets/erp_navbar_company/js/erp_navbar_company.js"
+app_include_css = "/assets/erp_navbar_company/css/custom_navbar.css"
+app_include_js = "/assets/erp_navbar_company/js/session_defaults.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/erp_navbar_company/css/erp_navbar_company.css"
@@ -241,4 +241,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
