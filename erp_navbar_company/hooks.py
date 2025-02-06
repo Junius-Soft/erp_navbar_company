@@ -28,7 +28,7 @@ app_license = "mit"
 app_include_css = "/assets/erp_navbar_company/css/custom_navbar.css"
 app_include_js = [
     "/assets/erp_navbar_company/js/session_defaults.js",
-    "/assets/accounting_management/js/company_filter/global_listview.js",
+    # "/assets/accounting_management/js/company_filter/global_listview.js",
 ]
 
 # include js, css files in header of web template
